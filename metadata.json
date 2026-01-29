@@ -1,0 +1,5 @@
+{
+  "name": "Discord Forge",
+  "description": "A comprehensive developer tool for creating Discord webhooks and generating boilerplate code for Discord bots using AI-assisted command generation.",
+  "requestFramePermissions": []
+}
